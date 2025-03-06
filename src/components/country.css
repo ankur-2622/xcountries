@@ -1,0 +1,18 @@
+.country {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .country-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+  }
